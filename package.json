@@ -1,0 +1,22 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview",
+    "new": "node ./new.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "shiki": "^1.5.1",
+    "vite": "^5.0.10",
+    "vite-plugin-list-directory-contents": "^1.4.5"
+  }
+}
